@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickWDaniel
-- 👀 I’m interested in java,kotlin,python,android
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in python,kotlin,java(android)
+- 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me erickwilfreddaniel@gmail.com
 
