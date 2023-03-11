@@ -15,9 +15,10 @@ I'm Erick, a software developer with a passion for AI and machine learning. Here
   - ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+  
 - 🌱 I'm currently learning more about machine learning and AI techniques.
 - 💞️ I'm looking to collaborate on AI projects and research.
-- 📫 You can reach me at [erickwilfreddaniel@gmail.com](mailto:erickwilfreddaniel@gmail.com).
+- 📫 You can reach me at ![erickwilfreddaniel@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)(mailto:erickwilfreddaniel@gmail.com).
 
 Feel free to check out my [GitHub profile](https://github.com/ErickWDaniel) for some of my past projects and contributions. Let's connect and create something awesome together!
 
