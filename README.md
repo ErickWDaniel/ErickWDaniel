@@ -3,7 +3,7 @@
 
 I'm Erick, a software developer with a passion for AI and machine learning. Here are some things to know about me:
 
-#### Interests
+#### Programming Language mastered
 | | | | |
 |-|-|-|-|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
@@ -14,7 +14,7 @@ I'm Erick, a software developer with a passion for AI and machine learning. Here
 🌱 I'm currently learning more about machine learning and AI techniques.
 
 #### Collaboration
-💞️ I'm looking to collaborate on AI projects and research.
+💞️ I'm looking to collaborate on AI projects and research.Feel free to join me in anyproject that uses the above language mastered
 
 #### Contact
 📫 You can reach me at [erickwilfreddaniel@gmail.com](mailto:erickwilfreddaniel@gmail.com).
