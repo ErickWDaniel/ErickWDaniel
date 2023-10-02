@@ -15,7 +15,7 @@ I'm Erick, a software developer with a passion for AI and machine learning. Here
 
 #### Collaboration
 💞️ I'm looking to collaborate on AI projects and research.Feel free to join me in anyproject that uses the above language mastered
-If you have an adnroid Project using ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ,![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)Please lets collaborate
+If you have an adnroid Project using Kotlin ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  or using Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) Please lets collaborate
 
 #### Contact
 📫 You can reach me at [erickwilfreddaniel@gmail.com](mailto:erickwilfreddaniel@gmail.com).
