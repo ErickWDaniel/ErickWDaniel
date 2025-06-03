@@ -1,39 +1,40 @@
-# Hi there! 👋🏾
+# Jambo! 👋🏾
 
-I'm Erick, a proud 🇹🇿🇹🇿🇹🇿🇹🇿 Maasai software developer from Tanzania 🇹🇿, passionate about crafting innovative apps 📱 and diving deep into AI & machine learning 🤖. 
+I'm Erick, a proud Maasai 🦁 developer from Tanzania 🇹🇿, passionate about building innovative apps 📱 and exploring AI & machine learning 🤖. With AWS ☁️ and Firebase 🔥, I create scalable solutions that roar with impact.
 
 🌟 **What I Do**:
-- Build sleek mobile apps with **Flutter** & **Kotlin**.
-- Develop AI/ML solutions using **Python**.
-- Create scalable backends with **PHP**, **MySQL**, and **SQLite**.
-- Contribute to open-source projects 🌍.
+- Craft sleek mobile apps with **Flutter** & **Kotlin**.
+- Build smart AI/ML models using **Python**.
+- Develop robust backends with **PHP**, **MySQL**, & **SQLite**.
+- Leverage **AWS** & **Firebase** for cloud-powered apps.
+- Contribute to open-source from Tanzania 🇹🇿 to the world 🌍.
 
 🛠️ **Tech Stack**:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 🚀 **Featured Projects**:
-- **[Flutter Firebase Bootstrap](https://github.com/ErickWDaniel/<repo-name>)**: A production-ready Flutter auth system with Firebase, MVVM, and CI/CD 🔥.
-- **AI/ML Experiments**: Python-based machine learning models for real-world problems 🤖.
-- **Android Apps**: Kotlin-powered mobile apps with modern UI/UX 📱.
+- **[Flutter Firebase Bootstrap](https://github.com/ErickWDaniel/<flutter-repo>)**: Production-ready auth system with Firebase, MVVM, & CI/CD 🔥.
+- **[AI Transport Predictor](https://github.com/ErickWDaniel/<ai-repo>)**: Python ML model for Tanzanian 🇹🇿 transport solutions 🤖.
+- **[Kotlin Travel App](https://github.com/ErickWDaniel/<kotlin-repo>)**: Android app with modern UI for local travel 📱.
 
 🌱 **Currently Learning**:
-- Advanced AI techniques & deep learning frameworks.
-- Cloud-native app development.
+- Deep learning & generative AI frameworks.
+- Cloud-native app dev with AWS ☁️.
 
 🤝 **Let’s Collaborate**:
-- Got a **Flutter**, **Kotlin**, or **AI** project? I’m in! 💡
-- Check out my repos below and star ⭐ your favorites.
-- Reach me at [erickwilfreddaniel@gmail.com](mailto:erickwilfreddaniel@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/<your-linkedin>) 📩.
+- Got a **Flutter**, **AI**, or **AWS** project? I’m ready! 💡
+- Star ⭐ my repos below and join the Tanzanian 🇹🇿 tech scene.
+- Reach me at [erickwilfreddaniel@gmail.com](mailto:erickwilfreddaniel@gmail.com) or [LinkedIn](https://linkedin.com/in/<your-linkedin>) 📩.
 
 💼 **Open to Opportunities**:
-Looking to hire a passionate developer? Let’s build something amazing together! 🌟
+Hiring a passionate dev? Let’s build world-class solutions together! 🌟
 
-#AI #Flutter #OpenSource #Tanzania 🇹🇿 🇹🇿🇹🇿🇹🇿#Maasai 🇹🇿🇹🇿🇹🇿
+#AI #Flutter #AWS #Firebase #Tanzania 🇹🇿 #Maasai 🦁
 
