@@ -1,23 +1,39 @@
-### Hi there! 👋
+# Hi there! 👋🏾
 
-I'm Erick, a software developer with a passion for AI and machine learning. Here are some things to know about me:
+I'm Erick, a proud 🇹🇿🇹🇿🇹🇿🇹🇿 Maasai software developer from Tanzania 🇹🇿, passionate about crafting innovative apps 📱 and diving deep into AI & machine learning 🤖. 
 
-#### Programming Language mastered
-| | | | |
-|-|-|-|-|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) | ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | | |
+🌟 **What I Do**:
+- Build sleek mobile apps with **Flutter** & **Kotlin**.
+- Develop AI/ML solutions using **Python**.
+- Create scalable backends with **PHP**, **MySQL**, and **SQLite**.
+- Contribute to open-source projects 🌍.
 
-#### Current Focus
-🌱 I'm currently learning more about machine learning and AI techniques.
+🛠️ **Tech Stack**:
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
-#### Collaboration
-💞️ I'm looking to collaborate on AI projects and research. Feel free to join me in any project that uses the above languages mastered. If you have an Android project using Kotlin or using Python, please let's collaborate.
+🚀 **Featured Projects**:
+- **[Flutter Firebase Bootstrap](https://github.com/ErickWDaniel/<repo-name>)**: A production-ready Flutter auth system with Firebase, MVVM, and CI/CD 🔥.
+- **AI/ML Experiments**: Python-based machine learning models for real-world problems 🤖.
+- **Android Apps**: Kotlin-powered mobile apps with modern UI/UX 📱.
 
-#### Contact
-📫 You can reach me at [erickwilfreddaniel@gmail.com](mailto:erickwilfreddaniel@gmail.com).
+🌱 **Currently Learning**:
+- Advanced AI techniques & deep learning frameworks.
+- Cloud-native app development.
 
-#### Projects
-Feel free to check out my [GitHub profile](https://github.com/ErickWDaniel) for some of my past projects and contributions. Let's connect and create something awesome together!
+🤝 **Let’s Collaborate**:
+- Got a **Flutter**, **Kotlin**, or **AI** project? I’m in! 💡
+- Check out my repos below and star ⭐ your favorites.
+- Reach me at [erickwilfreddaniel@gmail.com](mailto:erickwilfreddaniel@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/<your-linkedin>) 📩.
+
+💼 **Open to Opportunities**:
+Looking to hire a passionate developer? Let’s build something amazing together! 🌟
+
+#AI #Flutter #OpenSource #Tanzania 🇹🇿 🇹🇿🇹🇿🇹🇿#Maasai 🇹🇿🇹🇿🇹🇿
+
